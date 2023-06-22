@@ -2,4 +2,4 @@
 
 Mi primer repositorio
 
-I love :sing:, :dance:, :draw:D
+I love :sing:, :dance:, :draw:
